@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [sun] 
+# 👋 Hi, I'm sun
 ### 🎥 AI Video Generation & Neural Rendering Specialist
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Realistic%20AI%20Lab&fontSize=70)
@@ -9,7 +9,7 @@
 ![NVIDIA](https://img.shields.io/badge/nvidid-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## 📊 My GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인아이디]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sunald721&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Current Research
 - **Wan 2.1 Tuning:** Enhancing skin texture and temporal consistency.
